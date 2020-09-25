@@ -1,16 +1,20 @@
-**Yan Lin (林艳)**
 
-PhD Candidate
-
-School of Information Systems
-
-Singapore Management University
-
-80 Stamford Road
-
-Singapore 178902
-
-Email: yanlin.2016@phdcs.smu.edu.sg
+<table border="0">
+  <tr>
+    <td width="70%">
+      <h1>Yan Lin (林艳)</h1>
+      <p><b>PhD Candidate</b></p>
+      <p><b>School of Information Systems</b></p>
+      <p><b>Singapore Management University</b></p>
+      <p><b>80 Stamford Road</b></p>
+      <p><b>Singapore 178902</b></p>
+      <p><b>Email：yanlin.2016@phdcs.smu.edu.sg</b></p>
+    </td>
+    <td width="30%">
+      <img src="/IMG_0854.JPG" width="100%">     
+    </td>
+  </tr>
+</table>
 
 ### **About Me** 
 
