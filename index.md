@@ -11,7 +11,7 @@
       <p><b>Email：yanlin.2016@phdcs.smu.edu.sg</b></p>
     </td>
     <td width="40%">
-      <img src="/IMG_0854.JPG" width="100%">     
+      <img src="/IMG_0854.JPG" width="100%" height: auto>     
     </td>
   </tr>
 </table>
