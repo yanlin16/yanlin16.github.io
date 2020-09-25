@@ -1,7 +1,7 @@
 
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="65%">
       <h1>Yan Lin (林艳)</h1>
       <p><b>PhD Candidate</b></p>
       <p><b>School of Information Systems</b></p>
@@ -10,7 +10,7 @@
       <p><b>Singapore 178902</b></p>
       <p><b>Email：yanlin.2016@phdcs.smu.edu.sg</b></p>
     </td>
-    <td width="30%">
+    <td width="35%">
       <img src="/IMG_0854.JPG" width="100%">     
     </td>
   </tr>
