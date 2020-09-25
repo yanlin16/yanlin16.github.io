@@ -78,7 +78,7 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Jianming Fu, Pengwei Li, **Yan Lin**, Shuang Ding\
      In proceeding of the 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August, 2016.
 
-1. **An Instruction-set Randomization Using Length-preserving Permutation**
+1. [**An Instruction-set Randomization Using Length-preserving Permutation**](https://1drv.ms/b/s!Aj9CYr_j_6FAoDl0jO8XmF1obrJT)\
      Jianming Fu, Xu Zhang, **Yan Lin**\
      In proceeding of the 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August, 2015 (acceptance rate=79/278=28.4%).
 
