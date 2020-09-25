@@ -46,11 +46,11 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Xiaoxiao Tang, **Yan Lin**, Daoyuan Wu, Debin Gao\
      In proceeding of the 11th ACM Conference on Security and Privacy in Wireless and Mobile Networks (Wisec), June, 2018.
 
-1. **FRProtector: Defeating Control Flow Hijacking Through Function-level Randomization and Transfer Protection**\
+1. [**FRProtector: Defeating Control Flow Hijacking Through Function-level Randomization and Transfer Protection**](https://1drv.ms/b/s!Aj9CYr_j_6FAoD7_4xFkBORnPF4R?e=I3SAZp)\
      Jianming Fu, Rui Jian, **Yan Lin**\
      In proceeding of the 13th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), October, 2017 (short paper).
 
-1. **Survey of Randomization Defenses on Cloud Computing**\
+1. [**Survey of Randomization Defenses on Cloud Computing**](https://1drv.ms/u/s!Aj9CYr_j_6FAoEZxN_mQOIk3U6oK?e=8yyeMA)\
      Jianming Fu, **Yan Lin**, Xiuwen Liu, Xu Zhang\
      Chinese Journal of Computers, 2018.
 
@@ -62,7 +62,7 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Xiaoxiao Tang, Yu Liang, Xinjie Ma, **Yan Lin**, Debin Gao\
      In proceeding of the 19th Annual International Conference on Information Security and Cryptology (ICISC), November 2016 (acceptance rate=18/69=26.1%).
 
-1. **Impact of Environment on Branch Transfer of Software**\
+1. [**Impact of Environment on Branch Transfer of Software**](https://1drv.ms/u/s!Aj9CYr_j_6FAoEdgcdXojR5YQwdP?e=vY8kkz)\
      Jianming Fu, **Yan Lin**, Xu Zhang\
      In proceeding of th 12th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), October, 2016 (acceptance rate=32/137=23.4%).
 
@@ -70,11 +70,11 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      **Yan Lin**, Xiaoxiao Tang, Debin Gao, Jianming F
      In proceeding of the 19th Information Security Conference (ISC), September, 2016 (acceptance rate=19/76=25%).
 
-1. **Code Reuse Attack Mitigation Based on Function Randomization Without Symbol Table**\
+1. [**Code Reuse Attack Mitigation Based on Function Randomization Without Symbol Table**](https://1drv.ms/b/s!Aj9CYr_j_6FAoDxnSktD35sxzinM?e=W1itdJ)\
      Jianming Fu, **Yan Lin**, Xu Zhang\
      In proceeding of the 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August, 2016.
 
-1. **Android App Malicious Behavior Detection Based on User Intention**\
+1. [**Android App Malicious Behavior Detection Based on User Intention**](https://1drv.ms/b/s!Aj9CYr_j_6FAoDpmE-yjN4_TgL5l?e=TpuRbf)\
      Jianming Fu, Pengwei Li, **Yan Lin**, Shuang Ding\
      In proceeding of the 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August, 2016.
 
@@ -82,6 +82,6 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Jianming Fu, Xu Zhang, **Yan Lin**\
      In proceeding of the 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August, 2015 (acceptance rate=79/278=28.4%).
 
-1. **Computation Integrity Measurement Based on Branch Transfer**\
+1. [**Computation Integrity Measurement Based on Branch Transfer**](https://1drv.ms/b/s!Aj9CYr_j_6FAoD3WfBNTPSVHX5kD?e=HV2owW)\
      Jianming Fu, **Yan Lin**, Xu Zhang\
      In proceeding of the 13th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), September, 2014 (acceptance rate=73/230=31.7%).
