@@ -38,7 +38,7 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Xiaoyang Cheng, **Yan Lin**, Debin Gao\
      In proceeding of the 17th International Conference on Applied Cryptography and Network Security, June, 2019.
 
-1. **Function Risk Assessment under Memory Leakage**\
+1. [**Function Risk Assessment under Memory Leakage**](https://1drv.ms/b/s!Aj9CYr_j_6FAoETpx1oQQ-plKdzU?e=FRaQrn)\
      Jianming Fu, Rui Jin, **Yan Lin**, Zhengwei Guo, Baihe Jiang \
      International Conference on Networking and Network Applications, October, 2018.
 
