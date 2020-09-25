@@ -14,7 +14,9 @@ Email: yanlin.2016@phdcs.smu.edu.sg
 
 **About Me** 
 
-I am a PhD student at School of Information Systems, Singapore Management University (SMU), under the supervision of Prof. Debin Gao. Research interests: System Security; Software Security; Smartphone and Mobile Security.
+I am a PhD student at School of Information Systems, Singapore Management University (SMU), under the supervision of Prof. Debin Gao. 
+
+Research interests: System Security; Software Security; Smartphone and Mobile Security.
 
 **Education**
 
