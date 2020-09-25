@@ -12,13 +12,13 @@ Singapore 178902
 
 Email: yanlin.2016@phdcs.smu.edu.sg
 
-**About Me** 
+### **About Me** 
 
 I am a PhD student at School of Information Systems, Singapore Management University (SMU), under the supervision of Prof. Debin Gao. 
 
 Research interests: System Security; Software Security; Smartphone and Mobile Security.
 
-**Education**
+### **Education**
 
 Aug.2016 - Current PhD Candidate. School of Information Systems, Singapore Management University (SMU), Supervisor: Debin Gao
 
@@ -26,7 +26,7 @@ Sep.2013 - Jun.2016 MA.Sc. Computer School, Wuhan University, Supervisor: Jianmi
 
 Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineering, Hunan University
 
-**Publications**
+### **Publications**
 
 1. **When Function Signature Recovery Meets Compiler Optimization**\
       **Yan Lin**, Debin Gao\
