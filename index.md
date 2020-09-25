@@ -50,7 +50,7 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Jianming Fu, Rui Jian, **Yan Lin**\
      In proceeding of the 13th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), October, 2017 (short paper).
 
-1. [**Survey of Randomization Defenses on Cloud Computing**](https://1drv.ms/u/s!Aj9CYr_j_6FAoEZxN_mQOIk3U6oK?e=8yyeMA)\
+1. [**Survey of Randomization Defenses on Cloud Computing**](https://1drv.ms/b/s!Aj9CYr_j_6FAoELYSVZdDUht0Dw7?e=7PHiym)\
      Jianming Fu, **Yan Lin**, Xiuwen Liu, Xu Zhang\
      Chinese Journal of Computers, 2018.
 
@@ -62,7 +62,7 @@ Sep.2009 - Jun.2013 B.Eng. College of Computer Science and Electronic Engineerin
      Xiaoxiao Tang, Yu Liang, Xinjie Ma, **Yan Lin**, Debin Gao\
      In proceeding of the 19th Annual International Conference on Information Security and Cryptology (ICISC), November 2016 (acceptance rate=18/69=26.1%).
 
-1. [**Impact of Environment on Branch Transfer of Software**](https://1drv.ms/u/s!Aj9CYr_j_6FAoEdgcdXojR5YQwdP?e=vY8kkz)\
+1. [**Impact of Environment on Branch Transfer of Software**](https://1drv.ms/b/s!Aj9CYr_j_6FAoD8TQMxL9yNvBsRm?e=w5Keaa)\
      Jianming Fu, **Yan Lin**, Xu Zhang\
      In proceeding of th 12th EAI International Conference on Security and Privacy in Communication Networks (SecureComm), October, 2016 (acceptance rate=32/137=23.4%).
 
